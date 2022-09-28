@@ -1,6 +1,4 @@
-<img src="https://rise-media.com/wp-content/uploads/tech-banner.jpg" />
-
-<h1 align="center">Welcome to my profile!</h1>
+<img src="https://github.com/Yzorek/Yzorek/blob/main/Github%20banner.png" />
 
 <p align="center"><em>I'm a 4th Year Student at <a href="https://www.epitech.eu/fr/ecole-informatique-lille/">Epitech Lille, France</a>. Currently looking for freelance contracts!</p>
   
